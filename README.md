@@ -19,25 +19,17 @@
 <br>
 
 ㅤㅤ
-![lxexjx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lxexjx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)ㅤㅤ
+![lxexjx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lxexjx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)ㅤㅤ
 
 
 ㅤㅤㅤㅤ
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy2wo2)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdlqj)
 <br>
 <br>
-ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ㅤㅤ![lxexjx's github stats](https://github-readme-stats.vercel.app/api?username=lxexjx&show_icons=true&theme=radical)
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flxexjx&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)
-<!--
-**nomoreFt/nomoreFt** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :망원경: I’m currently working on ...
-- :새싹: I’m currently learning ...
-- :댄서: I’m looking to collaborate on ...
-- :생각하는_얼굴: I’m looking for help with ...
-- :말풍선: Ask me about ...
-- :우편함: How to reach me: ...
-- :웃음: Pronouns: ...
-- :번쩍: Fun fact: ...
--->
+
