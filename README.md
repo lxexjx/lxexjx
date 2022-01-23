@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFE3EE&height=250&section=header&text=lxexjx%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=blink&fontAlign=85&color=FFE3EE&height=250&section=header&text=lxexjx%20&fontSize=50)
 
 <h3 align="center"><b>🍀 I’m currently learning ...</b></h3>
 <p align="center">
