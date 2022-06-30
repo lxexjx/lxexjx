@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>🌿 I’m currently learning ...</b></h3>
 <p align="center">
-#알고리즘 #모던자바 #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
+#알고리즘 #모던자바 #Spring #JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD #네트워크
 </p>
 </br>
 <h3 align="center"><b>😎 Tech Stack</b></h3>
@@ -35,5 +35,4 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                                        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C8A2F9&title_bg=%23FF9FDE&icon=apple.svg&icon_color=%23FD0D75&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 <br>
-![footer](https://capsule-render.vercel.app/api?type=soft&color=C8A2F9&height=30&section=header&text=&fontSize=90)
 
